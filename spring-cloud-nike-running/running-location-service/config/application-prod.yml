@@ -1,0 +1,9 @@
+server:
+  port: 8888
+spring:
+  application:
+    name: running-location-service
+
+yulu:
+  name: 504-yulu-prod
+

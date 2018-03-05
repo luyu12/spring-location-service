@@ -1,0 +1,9 @@
+/Users/Irinaluu/Desktop/workspace/spring-cloud-nike-running/running-location-updator/src/main/java/demo/model/CurrentPosition.java
+/Users/Irinaluu/Desktop/workspace/spring-cloud-nike-running/running-location-updator/src/main/java/demo/model/Point.java
+/Users/Irinaluu/Desktop/workspace/spring-cloud-nike-running/running-location-updator/src/main/java/demo/controller/WebSocketController.java
+/Users/Irinaluu/Desktop/workspace/spring-cloud-nike-running/running-location-updator/src/main/java/demo/RunningLocationUpdaterSink.java
+/Users/Irinaluu/Desktop/workspace/spring-cloud-nike-running/running-location-updator/src/main/java/demo/RunningLocationUpdateApplication.java
+/Users/Irinaluu/Desktop/workspace/spring-cloud-nike-running/running-location-updator/src/main/java/demo/model/RunnerStatus.java
+/Users/Irinaluu/Desktop/workspace/spring-cloud-nike-running/running-location-updator/src/main/java/demo/model/CurrentPositionDto.java
+/Users/Irinaluu/Desktop/workspace/spring-cloud-nike-running/running-location-updator/src/main/java/demo/config/WebSocketConfig.java
+/Users/Irinaluu/Desktop/workspace/spring-cloud-nike-running/running-location-updator/src/main/java/demo/model/MedicalInfo.java

@@ -1,0 +1,9 @@
+server:
+  port: 8000
+spring:
+  application:
+    name: running-location-service
+yulu:
+  name: 504-shishishi-local
+
+
